@@ -1,4 +1,4 @@
-site_name: DataRescue Workflow
+site_name: DataRescue Ukraine Workflow
 pages:
     - Home: index.md
     - Surveying:
@@ -15,7 +15,32 @@ pages:
       - After an Event: organizing/post-event.md
     - Additional Resources:
       - Archivers App FAQ: faq.md
-theme: readthedocs
-theme_dir: custom_theme
 extra_css:
     - css/extra.css
+theme:
+  name: material
+  #custom_dir: overrides
+  palette:
+  - scheme: default
+    primary: pink
+    accent: blue
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+  - scheme: slate
+    primary: pink
+    accent: blue
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to dark mode
+  features:
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github-alt
+  logo: img/logo.png
+  favicon: img/logo.png
+  language: en
+repo_name: DataRescue Ukraine
+repo_url: https://github.com/DataRescue-Ukraine
