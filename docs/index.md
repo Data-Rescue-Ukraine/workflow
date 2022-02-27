@@ -1,8 +1,7 @@
-# DataRescue Workflow
+# DataRescue Ukraine Workflow
 
-# Note that this workflow is being retired and will no longer be supported as of May 21 2017
 
-This document describes DataRescue activities at both in-person events and remotely, as developed by the [DataRefuge project](http://www.ppehlab.org/) and [EDGI](https://envirodatagov.org/). It explains the process that a URL/dataset goes through from the time it has been identified, either by a [Seeder](seeding.md) as difficult to preserve, or  "uncrawlable," until it is made available as a record in the [datarefuge.org](http://www.datarefuge.org) data catalog. The process involves several stages and is designed to maximize smooth hand-offs. At each step the data is with someone with distinct expertise and the data is always being tracked for security.
+This document describes DataRescue efforts to preserve at-risk digital cultural heritage materials in Ukraine. This work builds on the 2016 [DataRefuge project](http://www.ppehlab.org/). It explains the process that a URL/dataset goes through from the time it has been identified, either by a [Seeder](seeding.md) as difficult to preserve, or  "uncrawlable," until it is made available as a record in the datarefuge data catalog. The process involves several stages and is designed to maximize smooth hand-offs. At each step the data is with someone with distinct expertise and the data is always being tracked for security.
 
 **********************
 
@@ -12,7 +11,7 @@ Learn about what you need to do to [before](/organizing/pre-event.md) and [after
 
 ## Event Attendees
 
-- Join the event Slack team recommended by event organizers, this is often the [DataRefuge Slack](https://rauchg-slackin-qonsfhhvxs.now.sh/). During the event people share expertise and answer each other's questions here.  
+- Join the event Slack team recommended by event organizers, this is often the [SlavicDH Slack](https://slavic-dh.slack.com/). During the event people share expertise and answer each other's questions here.  
 - Pick your role from the paths below, get account credentials, and make sure you have access to the key documents and tools you need to work. Organizers will instruct you on these steps.
 - Review the relevant sections(s) of this workflow.
 
@@ -53,4 +52,4 @@ Describers create a descriptive record in the DataRefuge CKAN repository for eac
 
 ## Partners
 
-DataRescue is a broad, grassroots effort with support from numerous local and nationwide networks. [DataRefuge](http://www.ppehlab.org/datarefuge/) and [EDGI](https://envirodatagov.org/) partner with local organizers in supporting these events. See more of our institutional partners on the [DataRefuge home page](http://www.ppehlab.org/datarefuge#partners).
+DataRescue is a broad, grassroots effort with support from numerous local and nationwide networks. 
